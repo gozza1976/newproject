@@ -1,0 +1,3 @@
+[submodule "newshared"]
+	path = newshared
+	url = https://github.com/gozza1976/newshared.git
